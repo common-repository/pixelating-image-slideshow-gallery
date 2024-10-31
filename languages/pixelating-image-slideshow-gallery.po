@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixelating image slideshow 6.1\n"
+"POT-Creation-Date: 2021-08-08 17:26+0800\n"
+"PO-Revision-Date: 2021-08-08 17:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pixelating-image-slideshow-gallery.php:282
+#: ../pixelating-image-slideshow-gallery.php:292
+#: ../pixelating-image-slideshow-gallery.php:293
+#: ../pixelating-image-slideshow-gallery.php:298
+#: ../pixelating-image-slideshow-gallery.php:299
+#: ../pixelating-image-slideshow-gallery.php:312
+#: ../pages/image-management-add.php:129
+#: ../pages/image-management-edit.php:153
+#: ../pages/image-management-show.php:53 ../pages/image-setting.php:6
+msgid "Pixelating image slideshow"
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:284
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:285
+msgid "click here"
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:332
+#: ../pages/image-management-add.php:28 ../pages/image-management-edit.php:57
+msgid "Please enter the image path."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:333
+#: ../pages/image-management-add.php:35 ../pages/image-management-edit.php:64
+msgid "Please enter the target link."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:334
+msgid "Please select the target option."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:335
+msgid "Please enter the image title."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:336
+msgid "Please enter the display order, only number."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:337
+msgid "Please select the display status."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:338
+msgid "Please select the gallery type."
+msgstr ""
+
+#: ../pixelating-image-slideshow-gallery.php:339
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../pages/image-management-add.php:69
+msgid "New image details was successfully added."
+msgstr ""
+
+#: ../pages/image-management-add.php:96 ../pages/image-management-edit.php:120
+msgid "Click here to view the details"
+msgstr ""
+
+#: ../pages/image-management-add.php:131
+msgid "Add new image details"
+msgstr ""
+
+#: ../pages/image-management-add.php:132
+msgid "Enter image path (URL)"
+msgstr ""
+
+#: ../pages/image-management-add.php:135
+#: ../pages/image-management-edit.php:159
+msgid "Where is the picture located on the internet"
+msgstr ""
+
+#: ../pages/image-management-add.php:137
+#: ../pages/image-management-edit.php:160
+msgid "Enter target link"
+msgstr ""
+
+#: ../pages/image-management-add.php:139
+#: ../pages/image-management-edit.php:162
+msgid "When someone clicks on the picture, where do you want to send them"
+msgstr ""
+
+#: ../pages/image-management-add.php:140
+#: ../pages/image-management-edit.php:163
+msgid "Select target option"
+msgstr ""
+
+#: ../pages/image-management-add.php:147
+#: ../pages/image-management-edit.php:170
+msgid "Do you want to open link in new window?"
+msgstr ""
+
+#: ../pages/image-management-add.php:151
+#: ../pages/image-management-edit.php:174
+msgid "Select gallery type/group"
+msgstr ""
+
+#: ../pages/image-management-add.php:177
+#: ../pages/image-management-edit.php:208
+msgid "This is to group the images. Select your slideshow group."
+msgstr ""
+
+#: ../pages/image-management-add.php:178
+#: ../pages/image-management-edit.php:209
+msgid "Display status"
+msgstr ""
+
+#: ../pages/image-management-add.php:183
+#: ../pages/image-management-edit.php:214
+msgid "Do you want the picture to show in your galler?"
+msgstr ""
+
+#: ../pages/image-management-add.php:184
+#: ../pages/image-management-edit.php:215
+msgid "Display order"
+msgstr ""
+
+#: ../pages/image-management-add.php:186
+#: ../pages/image-management-edit.php:217
+msgid ""
+"What order should the picture be played in. should it come 1st, 2nd, 3rd, "
+"etc."
+msgstr ""
+
+#: ../pages/image-management-add.php:190
+msgid "Insert Details"
+msgstr ""
+
+#: ../pages/image-management-add.php:191
+#: ../pages/image-management-edit.php:222 ../pages/image-setting.php:98
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/image-management-add.php:192
+#: ../pages/image-management-edit.php:223
+#: ../pages/image-management-show.php:122 ../pages/image-setting.php:99
+msgid "Help"
+msgstr ""
+
+#: ../pages/image-management-edit.php:18 ../pages/image-management-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/image-management-edit.php:104
+msgid "Image details was successfully updated."
+msgstr ""
+
+#: ../pages/image-management-edit.php:155
+msgid "Update image details"
+msgstr ""
+
+#: ../pages/image-management-edit.php:156
+msgid "Enter image path"
+msgstr ""
+
+#: ../pages/image-management-edit.php:221
+msgid "Update Details"
+msgstr ""
+
+#: ../pages/image-management-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/image-management-show.php:54
+#: ../pages/image-management-show.php:120
+msgid "Add New"
+msgstr ""
+
+#: ../pages/image-management-show.php:65 ../pages/image-management-show.php:75
+msgid "Type"
+msgstr ""
+
+#: ../pages/image-management-show.php:66 ../pages/image-management-show.php:76
+msgid "Image"
+msgstr ""
+
+#: ../pages/image-management-show.php:67 ../pages/image-management-show.php:77
+msgid "Link"
+msgstr ""
+
+#: ../pages/image-management-show.php:68 ../pages/image-management-show.php:78
+msgid "Target"
+msgstr ""
+
+#: ../pages/image-management-show.php:69 ../pages/image-management-show.php:79
+msgid "Order"
+msgstr ""
+
+#: ../pages/image-management-show.php:70 ../pages/image-management-show.php:80
+msgid "Display"
+msgstr ""
+
+#: ../pages/image-management-show.php:95
+msgid "Edit"
+msgstr ""
+
+#: ../pages/image-management-show.php:96
+msgid "Delete"
+msgstr ""
+
+#: ../pages/image-management-show.php:111
+msgid "No records available."
+msgstr ""
+
+#: ../pages/image-management-show.php:121 ../pages/image-setting.php:7
+msgid "Widget Setting"
+msgstr ""
+
+#: ../pages/image-setting.php:41
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../pages/image-setting.php:48
+msgid "Enter widget title"
+msgstr ""
+
+#: ../pages/image-setting.php:50
+msgid "Enter widget title, Only for widget."
+msgstr ""
+
+#: ../pages/image-setting.php:52
+msgid "Max Square (Only number)"
+msgstr ""
+
+#: ../pages/image-setting.php:54 ../pages/image-setting.php:58
+msgid "(only number)."
+msgstr ""
+
+#: ../pages/image-setting.php:56
+msgid "Duration"
+msgstr ""
+
+#: ../pages/image-setting.php:60
+msgid "Slide Speed"
+msgstr ""
+
+#: ../pages/image-setting.php:62
+msgid "Only Number / Pause time of the slideshow in milliseconds."
+msgstr ""
+
+#: ../pages/image-setting.php:64
+msgid "Random"
+msgstr ""
+
+#: ../pages/image-setting.php:66
+msgid "Enter : YES (or) NO"
+msgstr ""
+
+#: ../pages/image-setting.php:68
+msgid "Select your gallery group (Gallery  Type)"
+msgstr ""
+
+#: ../pages/image-setting.php:95
+msgid ""
+"This field is to group the images. Select your group name to fetch the "
+"images for widget."
+msgstr ""
+
+#: ../pages/image-setting.php:97
+msgid "Submit"
+msgstr ""
